@@ -1,2 +1,2 @@
 def demofunc():
-   return 0
+   return 42
