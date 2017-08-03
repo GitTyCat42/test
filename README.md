@@ -27,3 +27,10 @@ Testet, ob die ersten 10 Stellen von pi richtig berechnet wurden, indem geprüft
 Überprüft ob die Funktion demofailmul bei der Eingabe 6 und 7 als Ergebnis 42 ausgibt. Da nur der eine Fall geprüft wird, merkt der Test nicht, dass die Funktion unabhängig von der errechneten Variable "ergebnis" immer 42 ausgibt.
 <h3>5. test_demomul2()</h3>
 Testet erst durch zwei verschachtelte Schleifen das vollständige 1 mal 1 und anschließend 10 Produkte von Zufallszahlen bis 1000.
+
+
+
+
+<h2> Java
+
+Unter <a href="https://github.com/GitTyCat42/FMI-IN0069">diesem Link zum Repository von Nina ist eine Funktion mit zugehörigen Tests in Java zu finden.</a> 
