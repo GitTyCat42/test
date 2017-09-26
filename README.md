@@ -3,6 +3,9 @@
 <h2>Travis CI</h2>
 <img src="https://travis-ci.org/jstruzek/test.svg?branch=master" alt=Travis-CI Test-Ergebnis">
 
+<h2>Coveralls</h2>
+<a href='https://coveralls.io/github/GitTyCat42/test?branch=master'><img src='https://coveralls.io/repos/github/GitTyCat42/test/badge.svg?branch=master' alt='Coverage Status' /></a>
+
 <h2>Funktionen</h2>
 <h3>1. demofunc()</h4>
 demofunc() gibt 42 aus.
